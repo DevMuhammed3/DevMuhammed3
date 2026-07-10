@@ -4,7 +4,6 @@
   </h1>
 </div>
 
-
 <div align="center">
   <p>Building clean, reliable web applications with confidence, precision, and a calm focus on high-quality codebases.</p>
 </div>
@@ -41,6 +40,8 @@
 *   💬 **[OpenChat](https://github.com/DevMuhammed3/OpenChat)** - A full-stack, live communication web application built inside a **Turborepo Monorepo** (`apps/web` & `packages/ui`).
     *   *Architecture:* Next.js, TypeScript, Tailwind CSS, Socket.io.
     *   *Status:* Deployed on Vercel, currently patching and optimizing performance.
+*   🛠️ **[PortfolioBuilder](https://github.com/DevMuhammed3/PortfolioBuilder)** - An application designed to build and generate personalized professional portfolios.
+    *   *Status:* Codebase established, currently in active development.
 *   🎬 **Media Tracker** *(In Development)* - A high-performance media tracking app for movies, series, and anime.
     *   *Architecture:* Bun, Express, TypeScript.
 
