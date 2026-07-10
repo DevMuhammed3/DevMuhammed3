@@ -65,7 +65,3 @@
     <img src="https://img.shields.io/badge/Email-muhdid82@gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevMuhammed3&theme=tokyonight&margin-w=15" alt="Muhammed's Trophies" />
-</p>
