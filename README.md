@@ -1,64 +1,68 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1220&height=200&section=header&text=Hey,%20I'm%20Muhammed&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <h1>
+    Hi, I'm Muhammad
+  </h1>
 </div>
 
+
 <div align="center">
-  <h3>🚀 Full-Stack Software Developer from Egypt 🇪🇬</h3>
-  <p>I build production-ready applications with a focus on clean TypeScript, monorepos, and dark-themed minimal UIs.</p>
+  <p>Building clean, reliable web applications with confidence, precision, and a calm focus on high-quality codebases.</p>
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Skills
-
-<table>
+### 🛠️ Core Stack & Technologies
+<br/>
+<table align="center">
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=ts,js" /><br />
       <b>Languages</b>
     </td>
-    <td align="center" width="30%">
+    <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /><br />
       <b>Frontend</b>
     </td>
-    <td align="center" width="30%">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,bun" /><br />
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,bun,nodejs" /><br />
       <b>Backend & Runtimes</b>
     </td>
-    <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=git,github,vercel" /><br />
-      <b>Tooling</b>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" /><br />
+      <b>Databases & ORM</b>
     </td>
   </tr>
 </table>
 
 ---
 
-### 💻 Projects & Repositories
+### 💻 Current Projects
 
-*   💬 **[OpenChat](https://github.com/DevMuhammed3/open-chat)** - A full-stack, live communication web application built inside a **Turborepo Monorepo** (`apps/web` & `packages/ui`).
-    *   *Tech:* Next.js, TypeScript, Tailwind CSS, WebSockets.
-    *   *Status:* Deployed on Vercel, currently in the optimization phase.
+*   💬 **[OpenChat](https://github.com/DevMuhammed3/OpenChat)** - A full-stack, live communication web application built inside a **Turborepo Monorepo** (`apps/web` & `packages/ui`).
+    *   *Architecture:* Next.js, TypeScript, Tailwind CSS, Socket.io.
+    *   *Status:* Deployed on Vercel, currently patching and optimizing performance.
 *   🎬 **Media Tracker** *(In Development)* - A high-performance media tracking app for movies, series, and anime.
-    *   *Tech:* Bun, Express, TypeScript.
+    *   *Architecture:* Bun, Express, TypeScript.
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 System Stats & Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevMuhammed3&show_icons=true&theme=tokyonight&description_lines_count=15" alt="Muhammed's GitHub Stats" />
-  <br /><br />
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevMuhammed3&theme=tokyonight" alt="Muhammed's Streak" />
 </div>
 
 ---
 
-### 📬 Connect With Me
+### 📬 Connect
 
 <p align="center">
   <a href="https://github.com/DevMuhammed3">
     <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:muhdid82@gmail.com">
+    <img src="https://img.shields.io/badge/Email-muhdid82@gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
