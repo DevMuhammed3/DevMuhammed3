@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <p>Building clean, reliable web applications with confidence, precision, and a calm focus on high-quality codebases.</p>
+  <h4>Building clean, reliable web applications with confidence, precision, and a calm focus on high-quality codebases.</h4>
 </div>
 
 ---
