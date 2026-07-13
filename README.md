@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h4>Building clean, reliable web applications with confidence, precision, and a calm focus on high-quality codebases.</h4>
+  <h4>Full-stack developer focused on building scalable web applications with modern TypeScript technologies.</h4>
 </div>
 
 ---
