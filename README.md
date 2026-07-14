@@ -31,7 +31,7 @@
       <b>Databases & ORM</b>
     </td>
     <td align="center" width="20%">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,neovim,vercel,cloudflare" /><br />
+      <img src="https://skillicons.dev/icons?i=github,docker,linux,neovim,vercel,cloudflare" /><br />
       <b>Tools & DevOps</b>
     </td>
   </tr>
