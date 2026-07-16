@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ Core Stack & Technologies
+### Core Stack & Technologies
 
 <table align="center">
   <tr>
