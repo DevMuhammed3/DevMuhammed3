@@ -10,29 +10,29 @@
 
 ---
 
-###  Core Stack & Technologies:
-<br/>
+### 🛠️ Core Stack & Technologies
+
 <table align="center">
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="18%">
       <img src="https://skillicons.dev/icons?i=ts,js" /><br />
       <b>Languages</b>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="18%">
       <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" /><br />
       <b>Frontend</b>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="18%">
       <img src="https://skillicons.dev/icons?i=nodejs,express,bun" /><br />
-      <b>Backend & Runtimes</b>
+      <b>Backend</b>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="18%">
       <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase" /><br />
-      <b>Databases & ORM</b>
+      <b>Databases</b>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="18%">
       <img src="https://skillicons.dev/icons?i=github,docker,linux,neovim,vercel,cloudflare" /><br />
-      <b>Tools & DevOps</b>
+      <b>Tools</b>
     </td>
   </tr>
 </table>
