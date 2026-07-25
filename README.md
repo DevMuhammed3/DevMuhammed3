@@ -41,7 +41,7 @@
 
 ###  Current Projects:
 
-*    **[OpenChat](https://github.com/DevMuhammed3/OpenChat)** - A full-stack, live communication web application built inside a **Turborepo Monorepo** (`apps/web` & `packages/ui`).
+*    **[ZeroZone](https://github.com/DevMuhammed3/OpenChat)** - A full-stack, live communication web application built inside a **Turborepo Monorepo** (`apps/web` & `packages/ui`).
     *   *Architecture:* Next.js, TypeScript, Tailwind CSS, Socket.io.
     *   *Status:* Deployed on Vercel, currently patching and optimizing performance.
 *    **[PortfolioBuilder](https://github.com/DevMuhammed3/PortfolioBuilder)** - An application designed to build and generate personalized professional portfolios.
