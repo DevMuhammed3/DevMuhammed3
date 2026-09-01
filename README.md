@@ -46,7 +46,7 @@
     *   *Status:* Deployed on Vercel, currently patching and optimizing performance.
 *    **[PortfolioBuilder](https://github.com/DevMuhammed3/PortfolioBuilder)** - An application designed to build and generate personalized professional portfolios.
     *   *Status:* Codebase established, currently in active development.
-*    **Media Tracker** *(In Development)* - A high-performance media tracking app for movies, series, and anime.
+*    **[Media Tracker](https://github.com/DevMuhammed3/WatchStash)** *(In Development)* - A high-performance media tracking app for movies, series, and anime.
     *   *Architecture:* Bun, Express, TypeScript.
 
 ---
